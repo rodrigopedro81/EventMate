@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EventMate</string>
+    <string name="nome_evento">Evento</string>
+    <string name="descricao_evento">Descrição</string>
+</resources>
