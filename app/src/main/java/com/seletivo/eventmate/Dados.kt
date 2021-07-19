@@ -24,3 +24,9 @@ data class People(
     @SerializedName("picture")val picture: String
 )
 
+data class Checkin(
+    @SerializedName("name")val name: String,
+    @SerializedName("eventId")val eventId: String,
+    @SerializedName("email")val email: String
+    )
+

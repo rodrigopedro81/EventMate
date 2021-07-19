@@ -2,4 +2,11 @@
     <string name="app_name">EventMate</string>
     <string name="nome_evento">Evento</string>
     <string name="descricao_evento">Descrição</string>
+    <string name="nome">Nome</string>
+    <string name="email">E-mail</string>
+    <string name="checkin">Checkin</string>
+    <string name="preencha_todos_os_campos">Preencha todos os campos</string>
+    <string name="conexao_api_fail">Não foi possível conectar à API.</string>
+    <string name="erro_execucao">Ocorreu algum erro durante a execução.</string>
+    <string name="checkin_sucesso">Checkin Feito com sucesso.</string>
 </resources>
